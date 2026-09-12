@@ -1,0 +1,6 @@
+request_id,product,amount,desired_date,expected_amount_safe_to_pay,expected_affordability_status,expected_recommended_payment_method,expected_payment_plan,expected_earliest_date_for_full_payment,expected_spending_changes_needed
+R001,Laptop,60000,2026-09-30,10000,affordable_later,wait,2026-09-30:60000,2026-09-30,none
+R002,Smart Watch,800,2026-09-12,800,affordable_now,full_payment,2026-09-12:800,2026-09-12,none
+R003,Television,1500,2026-09-12,800,affordable_with_plan,installments,"2026-09-12:300, 2026-09-26:300, 2026-10-10:300, 2026-10-24:300, 2026-11-07:300",2026-09-12,none
+R004,Phone,1000,2026-09-12,200,affordable_later,wait,2026-10-01:1000,2026-10-01,stop:EVT_SUB
+R005,Vacation,50000,2026-09-12,1000,not_affordable,not_recommended,none,2026-09-12,none

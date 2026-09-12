@@ -1,0 +1,6 @@
+{
+  "name": "Deterministic 90-Day Financial Decision Engine",
+  "description": "A deterministic financial decision engine providing 90-day cashflow forecasts, safe-to-pay calculations, payment plan evaluation, and spending optimizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
